@@ -10,4 +10,4 @@ This project will take over where I left off with the raspbian mythtv  projects 
 
 BL. I just want to say. livemedia-creator is a picky picky picky itchy picky,where am i going with this...
 uhm great program! :) 
-I admit lmc is difficult but still yet easier than working with ole livecd-creator on install images.
+I admit lmc can be difficult to learn, but still yet much easier than working with ole livecd-creator on install images.
