@@ -1,5 +1,7 @@
 # c7rpimyth
-centos 7 on the raspberrypi with mythtv
+centos 7 on the raspberrypi with *mythtv
+
+*I use a old mythtv version 28 which will not make you many friends I'm sure. I'll update it when i can, feel free to rebuild your own in the meanwhile. Pretty sure I give enough information for one to do that.
 
 Built! Two versions r01 is xfce4 based  and r02 is lxqt based.
 
