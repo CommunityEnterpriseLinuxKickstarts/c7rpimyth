@@ -33,6 +33,6 @@ c7rpimyth since I respun from their repos with my addons is technically not cent
 
 
 Disclaimer:
-Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. I'm just a nerd with a great hobby and some toys. No one and I mean no one endorsed this project personally or in any way from such said above. What information they did not have publicly made available such as build scripts beyond a leftover kickstart, I deduced on my own and may not be a method they employ at all upstream for image creation. Furthermore, the official project is not responsible for maintaining anything to do with this sub-project spun off of theirs. Ask me for help if you want it or help your self , please.
+Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. I'm just a nerd with a great hobby and some toys. No one and I mean no one endorsed this project personally or in any way from such said above. What information they did not have publicly made available such as build scripts beyond a leftover kickstart, I deduced on my own and may not be a method they employ at all upstream for image creation. Furthermore, the official project is not responsible for maintaining anything to do with this sub-project spun off of theirs. Ask me for help if you want it or help your self , please. PLEASE, Don't mention sub project spins of hobbyists in upstream project forums as its likely inappropiate.
 
 
