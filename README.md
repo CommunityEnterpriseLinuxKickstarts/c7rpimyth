@@ -1,5 +1,5 @@
 # c7rpimyth
-centos 7 on the raspberrypi with *mythtv
+centos userland 7 on the raspberrypi with *mythtv
 
     *Currently, I use an older mythtv version 28.2 in my projects. 
     Usage of older software may NOT make you many friends , if you tell anyone close to upstream. 
@@ -14,8 +14,9 @@ centos 7 on the raspberrypi with *mythtv
 https://sourceforge.net/projects/c7rpimyth/
 
 
-c7 armhfp on the rpi came from the community and people at centos, I took a few sources and 
+The upstream official "c7 userland" armhfp on the rpi came from the community and people at centos, I took a few sources and 
 with livemedia-creator I reworked it a bit and respun it with mythtv and openmax support.
+
 
 This project will take over where I left off with the raspbian mythtv projects and now those projects will be converted over to  centos 7 "userland(*1) "armhfp based.  Now that I have seen and worked with the stable centos 7 armhfp build system thats now available, its the best for me.
 Is it fast as raspbian, no, it takes overclocking it to compare in my brief review, but I still like it since my background has been more rpm based than deb based. I like to build rpms, I dont enjoy building debs.
@@ -27,3 +28,6 @@ c7rpimyth is technically not centos 7 , but "userland centos linux(*1)" as defin
 
 
 1.) https://wiki.centos.org/SpecialInterestGroup/AltArch/armhfp
+
+
+*Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. Just a nerd with some toys.
