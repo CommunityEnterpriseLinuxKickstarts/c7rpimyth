@@ -30,4 +30,9 @@ c7rpimyth since I respun from their repos with my addons is technically not cent
 1.) https://wiki.centos.org/SpecialInterestGroup/AltArch/armhfp
 
 
-*Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. Just a nerd with a great hobby and some toys.
+
+
+Disclaimer:
+*Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. I'm just a nerd with a great hobby and some toys. No one and I mean no one endorsed this project personally or in any way from such said above. What information they did not have publicly made available such as build scripts beyond a leftover kickstart, I deduced on my own and may not be a method they employ at all upstream for image creation.
+
+
