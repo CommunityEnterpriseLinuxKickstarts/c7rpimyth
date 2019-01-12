@@ -15,7 +15,7 @@ elif [ -z $1 ]; then
     exit 1
 fi
 
-BUILD=4;#++
+BUILD=1;#++
 nextBUILD=$((++BUILD))
 DATESTAMP=`date +%Y%m%d`
 UPREL=1810
