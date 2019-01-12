@@ -20,4 +20,4 @@ with livemedia-creator I reworked it a bit and respun it with mythtv and openmax
 This project will take over where I left off with the raspbian mythtv projects and now those projects will be converted over to  centos 7 armhfp based.  Now that I have seen and worked with the stable centos 7 armhfp build system thats now available, its the best for me.
 Is it fast as raspbian, no, it takes overclocking it to compare in my brief review, but I still like it since my background has been more rpm based than deb based. I like to build rpms, I dont enjoy building debs.
 
-*LMC sure makes building images easier than the old manual methods either will installroot or livecd-creator.
+*LMC sure makes building images easier than the old manual methods either will installroot or half-done methods with livecd-creator. To be fair LC was never created for the image work LMC evidently was.
