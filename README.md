@@ -30,4 +30,4 @@ c7rpimyth is technically not centos 7 , but "userland centos linux(*1)" as defin
 1.) https://wiki.centos.org/SpecialInterestGroup/AltArch/armhfp
 
 
-*Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. Just a nerd with some toys.
+*Dont be confused I have nothing to do with Centos or Redhat or IBM in any offical capacity. Just a nerd with a great hobby and some toys.
