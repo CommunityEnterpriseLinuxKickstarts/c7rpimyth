@@ -1,7 +1,7 @@
 # c7rpimyth
 centos 7 on the raspberrypi with *mythtv
 
-    *Currently, I use an older mythtv version 28.2 in my projects. Usage of older software may make you many friends , if you tell anyone close to upstream. YMMV
+    *Currently, I use an older mythtv version 28.2 in my projects. Usage of older software may NOT make you many friends , if you tell anyone close to upstream. YMMV
     I'll update it when i can,  I  personally have a lot of projects I have to  bring into sync when I do, feel free to rebuild your own in the meanwhile. Pretty sure I and others give enough information for one to do that.
 
 2 images Built and available now on SF. Version r01 is xfce4 based and r02 is lxqt based.
