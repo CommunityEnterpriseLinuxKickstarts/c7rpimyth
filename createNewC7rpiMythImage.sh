@@ -19,7 +19,9 @@ BUILD=1;#++
 nextBUILD=$((++BUILD))
 DATESTAMP=`date +%Y%m%d`
 UPREL=1810
+#I use squid cache if you dont
 #change to your proxy or rem out
+#as needed here and in the nohup stanza below.
 MYPROXY=http://192.168.1.1:3128
 TMPDIR=./TMPDIR
 LOGFILE=c7rpiMyth.imagecreation.build.log
