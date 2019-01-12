@@ -24,7 +24,7 @@ Is it fast as raspbian, no, it takes overclocking it to compare in my brief revi
 *LMC sure makes building images easier than the old manual methods either will installroot or half-done methods with livecd-creator. To be fair it's my opinion that LC was never created for the image work LMC evidently was and is extended to do.
 
 
-c7rpimyth is technically not centos 7 , but "userland centos linux(*1)" as defined upstream due to changes they made to make it work with rpi.
+c7rpimyth since I respun from their repos with my addons is technically not centos 7 either , but "userland centos linux(*1)" as defined upstream due to changes they made to make it work with rpi.
 
 
 1.) https://wiki.centos.org/SpecialInterestGroup/AltArch/armhfp
